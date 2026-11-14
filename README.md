@@ -110,7 +110,9 @@ An interactive Excel dashboard titled **E-commerce Sales and Customer Insights D
 - Product Performance
 - Payment Method Analysis
 
-The dashboard provides an overview of sales performance and customer activity, making it easier to identify trends and areas requiring business attention.
+![Dashboard Visualization](E-commerce%20dashboard.png)
+
+*The dashboard provides an overview of sales performance and customer activity, making it easier to identify trends and areas requiring business attention*.
 
 ## Key Insights and Findings
 
