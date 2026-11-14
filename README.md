@@ -37,9 +37,12 @@ The following cleaning processes were performed:
 
 The cleaned dataset was prepared for subsequent exploratory analysis and SQL querying.
 
-### Dataset Before Cleaning
+### Raw Dataset Before Cleaning
 
-![E-commerce%20Sales%20and%20Customer%20Insights%20Dashboard](Before Cleaning.png)
+![Dataset before cleaning](Before%20Cleaning.png)
+
+
+*Original dataset showing inconsistencies and data quality issues before cleaning*.
 
 ### 2. Exploratory Data Analysis (Microsoft Excel)
 
