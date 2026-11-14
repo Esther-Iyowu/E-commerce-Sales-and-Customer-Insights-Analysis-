@@ -66,6 +66,10 @@ Techniques applied included:
 
 The EDA workbook was organised into multiple sheets, including Cleaned Data, Descriptive Statistics, Pivot Tables, Visualisations, and Key Observation Summary.
 
+![Pivot Table](pivot%20table.png)
+
+*pivot table*
+
 ### 3. SQL Analysis (MySQL)
 
 MySQL was used to query and further explore the cleaned sales dataset.
