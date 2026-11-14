@@ -37,6 +37,10 @@ The following cleaning processes were performed:
 
 The cleaned dataset was prepared for subsequent exploratory analysis and SQL querying.
 
+### Dataset Before Cleaning
+
+![E-commerce%20Sales%20and%20Customer%20Insights%20Dashboard](Before Cleaning.png)
+
 ### 2. Exploratory Data Analysis (Microsoft Excel)
 
 Exploratory Data Analysis was performed in Excel to identify patterns, trends, relationships, and potential business opportunities within the dataset.
