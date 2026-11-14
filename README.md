@@ -94,6 +94,8 @@ SQL techniques applied included:
 - `LIMIT` for identifying top-performing records.
 - Date-based aggregation for monthly sales trend analysis.
 
+![SQL ANALYSIS](SQL%20analysis.png)
+
 ### 4. Data Visualisation and Dashboard Development (Microsoft Excel)
 
 An interactive Excel dashboard titled **E-commerce Sales and Customer Insights Dashboard** was developed to present key performance indicators and business findings in an accessible visual format.
@@ -155,35 +157,6 @@ Based on the findings from the analysis, the following recommendations are propo
 5. **Plan Around Sales Trends:** Use monthly sales performance to identify high-performing and low-performing periods. Marketing campaigns and inventory planning can be adjusted accordingly.
 
 6. **Maintain Convenient Payment Options:** Since online payment was the most preferred method, the business should continue to provide a reliable and seamless online payment experience while monitoring other payment preferences.
-
-## Project Structure
-
-The repository is organised into the following folders:
-
-```text
-ecommerce-sales-and-customer-insights/
-│
-├── README.md
-│
-├── Dataset/
-│   ├── Raw_Dataset.xlsx
-│   └── Cleaned_Dataset.xlsx
-│
-├── Data-Cleaning/
-│   └── Data_Cleaning.xlsx
-│
-├── EDA/
-│   └── Exploratory_Data_Analysis.xlsx
-│
-├── SQL-Queries/
-│   └── SQL_Data_Analysis.sql
-│
-└── Visualization/
-    ├── E-commerce_Dashboard.xlsx
-    └── Dashboard_Screenshot.png
-```
-
-*Note: Folder and file names should be adjusted to match the actual files uploaded to the repository.*
 
 ## Conclusion
 
