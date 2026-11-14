@@ -3,7 +3,6 @@
 
 
 
-# E-commerce Sales and Customer Insights Analysis
 
 ## Project Overview
 
@@ -13,7 +12,7 @@ The project follows a structured data analysis process, beginning with data clea
 
 The objective is to transform raw sales data into meaningful insights, identify business performance trends, and provide actionable recommendations that can support informed decision-making.
 
-## Tools and Technologies
+## Tools Used
 
 - **Microsoft Excel:** Data cleaning, exploratory data analysis, descriptive statistics, correlation analysis, pivot tables, and dashboard development.
 - **MySQL:** Data querying, filtering, sorting, aggregation, and trend analysis.
@@ -43,6 +42,14 @@ The cleaned dataset was prepared for subsequent exploratory analysis and SQL que
 
 
 *Original dataset showing inconsistencies and data quality issues before cleaning*.
+
+
+### Dataset After Cleaning
+
+![Dataset After Cleaning](After%20Cleaning.png)
+
+
+*Dataset after cleaning, with inconsistencies addressed and data prepared for analysis*.
 
 ### 2. Exploratory Data Analysis (Microsoft Excel)
 
